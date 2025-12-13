@@ -9,7 +9,7 @@ Commercial website developed for Law Office Sanja Ferković Ćetina. Features Re
 
 ## 📌 Project Overview
 
-This repository contains the documentation for the official website of **Law Office Sanja Ferković Ćetina**, based in Pula, Croatia. 
+This repository contains the documentation for the official website of **Law Office Sanja Ferković Cetina**, based in Pula, Croatia. 
 
 **Note:** This is a live, commercial project developed specifically for a client. As such, the source code is private to protect the client's intellectual property and business logic. This README serves as a showcase of the technologies, architecture, and advanced SEO strategies implemented in the project.
 
